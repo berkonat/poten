@@ -1,4 +1,4 @@
-BSD 3-Clause License
+POTEN LICENSE
 
 Copyright (c) 2018, Berk Onat
 All rights reserved.
@@ -27,3 +27,9 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+* In addition to the above conditions, any publication and/or code using POTEN 
+code and/or its results should give reference to the following publication 
+in its credits, online, and/or printed publications: 
+Berk Onat, Ekin D. Cubuk, Brad D. Malone, and Efthimios Kaxiras, "Implanted neural 
+network potentials: Application to Li-Si alloys", Phys. Rev. B 97, 094106 (2018).
