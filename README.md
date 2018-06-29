@@ -4,7 +4,7 @@ POTEN is a package for developing interatomic potentials. The package uses Torch
 
 ## License
 
-Please read the [LICENCE](https://github.com/berkonat/poten/edit/master/LICENSE) file.
+Please read the [LICENCE](LICENSE) file.
 
 ## Reference publication
 
