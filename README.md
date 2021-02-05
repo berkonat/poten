@@ -4,7 +4,7 @@ POTEN is a package for developing interatomic potentials. The package uses Torch
 
 ## INN Potential usage with 'poten' and iTorch.
 
-See example notebook at github.com/berkonat/poten/examples/poten_examples.ipynb .
+See example notebook at [examples/poten_examples.ipynb](github.com/berkonat/poten/examples/poten_examples.ipynb) .
 
 ## License
 
