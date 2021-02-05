@@ -6,7 +6,7 @@ POTEN is a package for developing interatomic potentials. The package uses Torch
 
 See example notebook at [examples/poten_examples.ipynb](https://github.com/berkonat/poten/tree/master/examples/poten_examples.ipynb) .
 
-![INN-luatorpy](https://github.com/berkonat/poten/blob/master/luatorpy-INN.png?raw=true =250x)
+![INN-luatorpy](https://github.com/berkonat/poten/blob/master/luatorpy-INN.png?raw=true)
 
 ## License
 
