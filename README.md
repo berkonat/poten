@@ -2,6 +2,10 @@
 
 POTEN is a package for developing interatomic potentials. The package uses Torch7 project and is based on Lua. As of today, POTEN only supports atom-based Neural Network potentials and pair interactions.
 
+## INN Potential usage with 'poten' and iTorch.
+
+See example notebook at github.com/berkonat/poten/examples/poten_examples.ipynb .
+
 ## License
 
 Please read the [LICENCE](LICENSE) file.
